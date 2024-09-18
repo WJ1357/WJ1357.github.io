@@ -124,7 +124,7 @@ html.dark {
   --hty-secondary-text-color: #555;
   --post-block-bg-color: #fff;
   --smc-link-color: #0078e7;
-  --yun-bg-image: url("/images/ceshi1.jpg");
+  --yun-bg-image: url("/images/xianhua.jpg");
   --banner-line-color: #000;
   --banner-char-color: #000;
 }
@@ -295,7 +295,7 @@ body::before {
   animation-name: bgFadeIn;
   animation-duration: 2s;
   opacity: 0.6;
-  filter: blur(10px);
+  filter: blur(7px);
 }
 @-moz-keyframes bgFadeIn {
   from {
